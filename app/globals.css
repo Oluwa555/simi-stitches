@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Simi Stitches uses the default system font stack (no font download needed). */
+:root {
+  color-scheme: light;
+}
